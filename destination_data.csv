@@ -1,0 +1,101 @@
+destination_id,destination,country,popular_season
+1,Paris,France,Spring
+2,London,United Kingdom,Summer
+3,Tokyo,Japan,Autumn
+4,Rome,Italy,Spring
+5,New York,United States,Winter
+6,Sydney,Australia,Summer
+7,Bangkok,Thailand,Autumn
+8,Dubai,United Arab Emirates,Winter
+9,Barcelona,Spain,Spring
+10,Los Angeles,United States,Summer
+11,Amsterdam,Netherlands,Autumn
+12,Venice,Italy,Spring
+13,Honolulu,United States,Summer
+14,Prague,Czech Republic,Autumn
+15,Seoul,South Korea,Winter
+16,Machu Picchu,Peru,Spring
+17,Santorini,Greece,Summer
+18,Vancouver,Canada,Autumn
+19,Cape Town,South Africa,Spring
+20,Reykjavik,Iceland,Winter
+21,Mumbai,India,Summer
+22,Auckland,New Zealand,Spring
+23,Miami,United States,Summer
+24,Cairo,Egypt,Winter
+25,Rio de Janeiro,Brazil,Summer
+26,Lisbon,Portugal,Autumn
+27,Budapest,Hungary,Spring
+28,Edinburgh,United Kingdom,Autumn
+29,Vienna,Austria,Spring
+30,Kyoto,Japan,Autumn
+31,St. Petersburg,Russia,Winter
+32,Montreal,Canada,Summer
+33,Granada,Spain,Spring
+34,Chiang Mai,Thailand,Winter
+35,Oslo,Norway,Autumn
+36,Berlin,Germany,Summer
+37,Havana,Cuba,Spring
+38,Krakow,Poland,Summer
+39,Queenstown,New Zealand,Autumn
+40,Singapore,Singapore,Summer
+41,Florence,Italy,Spring
+42,Copenhagen,Denmark,Summer
+43,Prague,Czech Republic,Summer
+44,Kyoto,Japan,Spring
+45,St. Petersburg,Russia,Summer
+46,Bangkok,Thailand,Spring
+47,Lisbon,Portugal,Summer
+48,Amsterdam,Netherlands,Summer
+49,Chiang Mai,Thailand,Spring
+50,Cape Town,South Africa,Summer
+51,Barcelona,Spain,Summer
+52,Vancouver,Canada,Winter
+53,Honolulu,United States,Spring
+54,Rome,Italy,Summer
+55,Mumbai,India,Spring
+56,Machu Picchu,Peru,Summer
+57,Seoul,South Korea,Spring
+58,Venice,Italy,Summer
+59,Sydney,Australia,Autumn
+60,New York,United States,Spring
+61,Paris,France,Summer
+62,London,United Kingdom,Winter
+63,Tokyo,Japan,Summer
+64,Santorini,Greece,Spring
+65,Dubai,United Arab Emirates,Summer
+66,Los Angeles,United States,Winter
+67,Reykjavik,Iceland,Spring
+68,Prague,Czech Republic,Winter
+69,Cape Town,South Africa,Winter
+70,Bangkok,Thailand,Winter
+71,Havana,Cuba,Summer
+72,Vienna,Austria,Summer
+73,Montreal,Canada,Spring
+74,Lisbon,Portugal,Spring
+75,Florence,Italy,Winter
+76,Berlin,Germany,Spring
+77,Queenstown,New Zealand,Summer
+78,Granada,Spain,Summer
+79,Chiang Mai,Thailand,Summer
+80,Mumbai,India,Winter
+81,Kyoto,Japan,Winter
+82,Machu Picchu,Peru,Winter
+83,St. Petersburg,Russia,Spring
+84,Singapore,Singapore,Winter
+85,Edinburgh,United Kingdom,Spring
+86,Budapest,Hungary,Summer
+87,Copenhagen,Denmark,Winter
+88,Oslo,Norway,Spring
+89,Krakow,Poland,Spring
+90,Amsterdam,Netherlands,Autumn
+91,Venice,Italy,Winter
+92,London,United Kingdom,Spring
+93,Tokyo,Japan,Autumn
+94,New York,United States,Summer
+95,Sydney,Australia,Winter
+96,Paris,France,Spring
+97,Rome,Italy,Autumn
+98,Lisbon,Portugal,Autumn
+99,Berlin,Germany,Summer
+100,Miami,United States,Winter
